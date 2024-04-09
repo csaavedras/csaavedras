@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csaavedras&label=Profile%20views&color=0e75b6&style=flat" alt="csaavedras" /> </p>
 
-- 🔭 I’m currently working on [Agency Panel](https://agency-panel-app-pgnmn.ondigitalocean.app/login)
-
-- 🌱 I’m currently learning **TypeScript, Next.JS**
-
-- 🥇 This is my first professional project [TargetMe](https://www.targetme.org)
-
-- 👨‍💻 All of my Frontend projects are available at [https://devchallenges.io/portfolio/csaavedras](https://devchallenges.io/portfolio/csaavedras)
-
-- 💬 Ask me about **Apple ecosystem,**
-
-- 📫 How to reach me **ci.saavedras@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/camilosaavedras](www.linkedin.com/in/camilosaavedras)
-
-- ⚡ Fun fact **I am a creative colorblind person.**
+- 🔭 Currently working on OCMS
+  
+- 🌱 Currently learning **TypeScript** and **Next.JS** to build more robust applications.
+  
+- 🥇 Successfully delivered: [Agency](https://agency.noticiasneo.com) | [CE2030](https://empresas2030.com) | [Redbook MX](https://www.redbook.mx) | [Alaska Transportes](https://alaskatransportes.cl)
+  
+- 👨‍💻  Explore my projects on [Github Portfolio](https://github.com/csaavedras/Web-Developer-Portfolio)
+  
+- 💬 Experienced in the **Apple ecosystem**; feel free to ask me anything about it.
+  
+- 📫 Reach me at **ci.saavedras@gmail.com**
+  
+- 📄 Connect with me on [LinkedIn](www.linkedin.com/in/camilosaavedras) to learn more about my professional journey.
+  
+- ⚡ Fun fact: **I'm a creative colorblind person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
