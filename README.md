@@ -9,7 +9,7 @@
 
 - 🌱 Expanding my backend knowledge with **NestJS** and **GraphQL** to become a more well-rounded developer.
 
-- 🥇 Successfully delivered: [Agency](https://agency.noticiasneo.com) | [CE2030](https://empresas2030.com) | [Alaska Transportes](https://alaskatransportes.cl) | **Redbook MX**
+- 🥇 Successfully delivered: [Upcap](https://www.upcap.cl) | [Agency](https://agency.noticiasneo.com) | [CE2030](https://empresas2030.com) | [Alaska Transportes](https://alaskatransportes.cl) | **Redbook MX**
 
 - 👨‍💻 Explore my projects on [Github Portfolio](https://github.com/csaavedras/Web-Developer-Portfolio)
 
