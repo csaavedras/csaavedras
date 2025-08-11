@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csaavedras&label=Profile%20views&color=0e75b6&style=flat" alt="csaavedras" /> </p>
 
-- 💼 **Frontend Developer at Seidor Chile (Client: Cencosud)**
+- 💼 **Frontend Developer at Seidor Chile (Cencosud)**
 
 - 🎓 Currently studying **Software Engineering**, building a strong foundation for scalable applications.
 
