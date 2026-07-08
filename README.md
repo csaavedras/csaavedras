@@ -24,12 +24,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,graphql,js,html,css,vite,figma,aws,docker,postman,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csaavedras&show_icons=true&locale=en&layout=compact" alt="csaavedras" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csaavedras&show_icons=true&locale=en" alt="csaavedras" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csaavedras&" alt="csaavedras" /></p>
-
 <!---
 csaavedras/csaavedras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
