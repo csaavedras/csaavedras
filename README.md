@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,graphql,js,html,css,vite,figma,aws,docker,postman,postgres,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nestjs,elasticsearch,firebase,swift,androidstudio,graphql,js,html,css,vite,figma,aws,docker,postman,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 <!---
 csaavedras/csaavedras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
