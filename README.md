@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csaavedras&label=Profile%20views&color=0e75b6&style=flat" alt="csaavedras" /> </p>
 
-- 💼 **Frontend Developer at Seidor Chile (Cencosud)**
+- 💼 **Full Stack Developer at Seidor Chile (Cencosud)**
 
 - 🎓 Currently studying **Software Engineering**, building a strong foundation for scalable applications.
 
-- 🌱 Expanding my backend knowledge with **NestJS** and **GraphQL** to become a more well-rounded developer.
+- 🌱 Expanding my backend knowledge with **NestJS** and **ES** to become a more well-rounded developer.
 
 - 🥇 Successfully delivered: [Upcap](https://www.upcap.cl) | [Agency](https://agency.noticiasneo.com) | [CE2030](https://empresas2030.com) | [Alaska Transportes](https://alaskatransportes.cl) | **Redbook MX**
 
